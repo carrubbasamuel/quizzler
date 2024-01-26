@@ -130,7 +130,7 @@ class _ScorePage extends State<ScorePage> {
                           ),
                         ),
                         Text(
-                          'Play Again',
+                          'Try Again',
                           style: const TextStyle(
                             color: Colors.white,
                           ),
